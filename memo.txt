@@ -1,0 +1,11 @@
+元ネタ：https://qiita.com/Motonosuke/items/89602405937edea8fa7a
+
+・Nuxt起動
+
+	docker exec -it nuxt /bin/bash
+
+	cd front
+
+	yarn run dev
+
+
